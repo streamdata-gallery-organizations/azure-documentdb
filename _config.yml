@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: azure-documentdb.api.streamdata.gallery
+title: Streamdata Gallery Azure DocumentDB
+url: azure-documentdb.streamdata.gallery
 tag: Azure DocumentDB
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: azure-documentdb
 github_branch: master
 collections:
