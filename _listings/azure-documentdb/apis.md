@@ -6,10 +6,10 @@ description: Azure DocumentDB is a fully-managed NoSQL document database service
   reliable performance, and rapid development.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-document-db-03-replicate.png
 x-kinRank: "10"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Azure DocumentDB
-created: "2018-05-24"
-modified: "2018-05-24"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-documentdb/master/_listings/azure-documentdb/apis.md
 specificationVersion: "0.14"
 apis:
